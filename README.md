@@ -17,6 +17,7 @@
 <li>HTML</li>
 <li>Css</li>
 <li>javascripts</li>
+<li>Auth0</li>
 </ul>
 </p>
 <h2>Key Learnings from the project -</h2>
