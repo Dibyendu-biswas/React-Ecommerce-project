@@ -5,7 +5,7 @@
 <h2>Project Details :</h2>
 <p>This is a library of multiple basic projects based on HTML, CSS & Vanilla Javascript .i use React as a framework </p>
 <p>Use axios to fetch data </p>
-<p>Use reducer and context.js for store management and for authentication i use AuthO </p>
+<p>Use reducer and context.js for store management and for authentication we use AuthO </p>
 
 <li>Project Live Link : All the live link available in the Respecttive Repo</li>
 <h2>Completed Projects -</h2>
