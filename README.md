@@ -1,5 +1,6 @@
 <h1>Project -React-Cocktail-Project</h1>
 <img src='\src\assets\img.png'/>
+<img src='\src\assets\img3.png'/>
 <img src='\src\assets\img2.png'/>
 
 <h2>Project Details :</h2>
