@@ -8,8 +8,6 @@
 <p>Use reducer and context.js for store management and for authentication we use AuthO </p>
 
 <li>Project Live Link : All the live link available in the Respecttive Repo</li>
-<h2>Completed Projects -</h2>
-<p>Color Flipper</p>
 <h2>Technology Used -</h2>
 <p>
 <ul>
